@@ -2,6 +2,9 @@
 
 Sample flutter app of object detection by yolov5
 
+## Articles
+[[Flutter] YOLOv5を使ってリアルタイムで物体検出](https://qiita.com/syu-kwsk/items/e3126f55895444aa408b)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
